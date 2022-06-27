@@ -1,0 +1,18 @@
+[13/Jun/2022:01:27:52] (I): WordPress Instance Info:
+[13/Jun/2022:01:27:52] (I): Home URL : http://localhost/wordpress_it
+[13/Jun/2022:01:27:52] (I): Site URL : http://localhost/wordpress_it
+[13/Jun/2022:01:27:52] (I): WordPress Version : 6.0
+[13/Jun/2022:01:27:52] (I): Onboarding Version : 1.1.22
+[13/Jun/2022:01:27:52] (I): Multisite : No
+[13/Jun/2022:01:27:52] (I): Server Info : Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.29
+[13/Jun/2022:01:27:52] (I): PHP Version : 7.4.29
+[13/Jun/2022:01:27:52] (I): HTTPS : No
+[13/Jun/2022:01:27:52] (I): PHP Max Execution Time : 120
+[13/Jun/2022:01:27:52] (I): PHP Max Input Vars : 1000
+[13/Jun/2022:01:27:52] (I): Max Upload Size : 41943040
+[13/Jun/2022:01:27:52] (I): Plugins:
+[13/Jun/2022:01:27:52] (I): [PLUGIN] BetterDocs : v2.0.14 (WPDeveloper)
+[13/Jun/2022:01:27:52] (I): [PLUGIN] Elementor : v3.6.5 (Elementor.com)
+[13/Jun/2022:01:27:52] (I): [PLUGIN] Essential Addons for Elementor : v5.1.4 (WPDeveloper)
+[13/Jun/2022:01:27:52] (I): [PLUGIN] Facebook Chat Plugin - Live Chat Plugin for WordPress : v2.4 (Meta)
+[13/Jun/2022:01:27:52] (I): [PLUGIN] Templates Patterns Collection : v1.1.22 (ThemeIsle)
